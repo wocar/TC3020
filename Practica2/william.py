@@ -5,10 +5,11 @@ from sklearn.metrics import confusion_matrix, classification_report
 
 
 class LogisticRegression:
-    def __init__(self, lr=0.01, fit_intercept=False, verbose=False):
+    def __init__(self, lr=0.01, iterations=1000, fit_intercept=False, verbose=False):
         self.lr = lr
         self.fit_intercept = fit_intercept
         self.verbose = verbose
+        self.iterations = iterations
 
     def __add_intercept(self, X):
         intercept = np.ones((X.shape[0], 1))
@@ -31,7 +32,7 @@ class LogisticRegression:
 
         size = y.size
         i = 0
-        while True:
+        for _ in range(self.iterations):
             h = self.__sigmoid(np.dot(X, self.theta))
             gradient = np.dot(X.T, (h - y)) / size
 
@@ -86,11 +87,7 @@ def load_data_set(dataset, target_x_columns, target_y_column, percentage_test=.8
     return X_train, y_train, X_test, y_test
 
 
-def score(y_pred, y_test):
-    print(classification_report(y_test, y_pred))
-    print('Confusion Matrix\n')
-    print(confusion_matrix(y_test, y_pred))
-    print("")
+def report(y_pred, y_test):
 
     c = 0
     for i in range(len(y_pred)):
