@@ -18,3 +18,10 @@ https://scholar.google.com.mx/citations?user=I3p9d_EAAAAJ&hl=es
 You can also find the paper we made as a team "Paper Final.pdf"
 
 I hope this can be of use to those who are dabbling into machine learning. 
+
+
+## Final notes
+
+Si te sirvío, dejame saberlo dejando una estrella :-)
+
+If you found this useful, please let me know by leaving a start. :-)
