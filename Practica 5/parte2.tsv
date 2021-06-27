@@ -1,0 +1,11 @@
+day,outlook,temp,humidity,beach
+1,Sunny,High,High,Yes
+2,Sunny,High,Normal,Yes
+3,Sunny,Low,Normal,No
+4,Sunny,Mild,High,Yes
+5,Rain,Mild,Normal,No
+6,Rain,High,High,No
+7,Rain,Low,Normal,No
+8,Cloudy,High,High,No
+9,Cloudy,High,Normal,Yes
+10,Cloudy,Mild,Normal,No
