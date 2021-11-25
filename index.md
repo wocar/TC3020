@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## TC3020 Aprendizaje Automático / Machine learning
 
-You can use the [editor on GitHub](https://github.com/wocar/TC3020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Este repositorio tiene algunas de las práticas que llevamos a cabo en la clase TC3020 Machine Learning con el profesor Dr. Falcón-Cardona.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://scholar.google.com.mx/citations?user=I3p9d_EAAAAJ&hl=es
 
-### Markdown
+También el paper que hicimos en equipo Paper Final.pdf
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Espero esto le pueda servir a quienes estén incursionando en el machine learning.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## TC3020 Automatic Learning / Machine learning
 
-- Bulleted
-- List
+This repository has some of the practices that we carried out in the TC3020 Machine Learning class with Professor Dr. Falcón-Cardona.
 
-1. Numbered
-2. List
+https://scholar.google.com.mx/citations?user=I3p9d_EAAAAJ&hl=es
 
-**Bold** and _Italic_ and `Code` text
+You can also find the paper we made as a team "Paper Final.pdf"
 
-[Link](url) and ![Image](src)
-```
+I hope this can be of use to those who are dabbling into machine learning. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+## Final notes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wocar/TC3020/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Si te sirvío, dejame saberlo dejando una estrella :-)
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you found this useful, please let me know by leaving a start. :-)
